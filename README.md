@@ -6,7 +6,7 @@ This repository contains the Keycloakify-Tailwind-Shadcn-Landing-Page, a customi
 
 The Keycloakify-Tailwind-Shadcn-Landing-Page is a fully responsive and modern template, perfect for promoting open-source projects. It showcases the flexibility of Tailwind CSS and ShadCN UI and can be customized to suit different needs. This project also includes a Storybook for testing components.
 
-## 🌟 Live Storybook
+## 🌟 Live Demo
 
 You can explore and test the components used in this project through the live Storybook:
 
