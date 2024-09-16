@@ -8,11 +8,12 @@ The Keycloakify-Tailwind-Shadcn-Landing-Page is a fully responsive and modern te
 
 ## 🌟 Live Storybook
 
-You can test the components used in this project via the live Storybook:
+You can explore and test the components used in this project through the live Storybook:
 
-[Storybook Demo](https://nima70.github.io/keycloakify-tailwind-shadcn-landing/storybook)
+[Storybook Demo](https://nima70.github.io/keycloakify-tailwind-shadcn-landing/storybook) – Interact with all the UI components in an isolated environment.
 
-[View Landing Page](https://nima70.github.io/keycloakify-tailwind-shadcn-landing/site)
+Check out the Landing Page here:
+[View Landing Page](https://nima70.github.io/keycloakify-tailwind-shadcn-landing/site) – See the final implementation of the landing page in action.
 
 ## ✨ Features
 
